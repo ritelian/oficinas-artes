@@ -1,0 +1,18 @@
+Quero que publiques este projeto no meu GitHub e o deixes live no GitHub Pages.
+
+Trabalha a partir dos ficheiros desta pasta e lê primeiro `CODEX_HANDOFF.md`. Não recries o website de raiz: o `index.html` já contém o design final com hero fullscreen, imagens grandes, parallax, microanimações, conteúdo pedagógico e responsividade.
+
+A minha conta GitHub é `ritelian`. Se tiveres permissões através do GitHub CLI/API, cria um repositório público chamado `oficinas-artes`, usa `main` como branch principal, adiciona também um `.nojekyll`, faz commit/push dos ficheiros e ativa GitHub Pages a partir de `main` / `/ (root)`.
+
+Depois verifica o deployment e testa a URL pública esperada: https://ritelian.github.io/oficinas-artes/
+
+Antes de terminares, confirma:
+- repo criado e acessível;
+- ficheiros committed e pushed;
+- GitHub Pages ativo;
+- homepage responde;
+- imagens principais carregam;
+- não há erros JS óbvios;
+- o design e o conteúdo pedagógico original foram preservados.
+
+Se alguma permissão impedir a criação do repo ou a ativação do Pages, executa tudo o que for possível e diz-me apenas o passo mínimo que preciso de fazer manualmente, sem reescrever o projeto.
